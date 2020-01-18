@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Destaca els anuncis de Google",
+    "description": "The extension's name"
+  },
+  "appDescription": {
+    "message": "Destaca els anuncis a les pàgines de resultats de Google com als vells temps.",
+    "description": "The extension's description"
+  }
+}
